@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemDoubleExtensions", "SystemDoubleExtensions\SystemDoubleExtensions.csproj", "{35189C01-CE76-48F7-AFCC-8107C570DB28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemDoubleExtensionsTests", "SystemDoubleExtensionsTests\SystemDoubleExtensionsTests.csproj", "{31C832DC-0C9D-44EA-B1DF-47DC6D9A7550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35189C01-CE76-48F7-AFCC-8107C570DB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35189C01-CE76-48F7-AFCC-8107C570DB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35189C01-CE76-48F7-AFCC-8107C570DB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35189C01-CE76-48F7-AFCC-8107C570DB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C832DC-0C9D-44EA-B1DF-47DC6D9A7550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C832DC-0C9D-44EA-B1DF-47DC6D9A7550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C832DC-0C9D-44EA-B1DF-47DC6D9A7550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C832DC-0C9D-44EA-B1DF-47DC6D9A7550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7CD07F7-797C-4194-83AD-3396FB10846B}
+	EndGlobalSection
+EndGlobal
